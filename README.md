@@ -1,0 +1,2 @@
+# Wifi_Discovery_Project_by_Titus_2401003226
+Make your wifi networked devices discoverable
